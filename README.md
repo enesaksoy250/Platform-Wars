@@ -9,4 +9,4 @@
    **Akıcı Kontroller:** Kolay öğrenilen kontrollerle keyifli bir oyun deneyimi.<br>
    
 ## Ekran Görüntüleri
-(PlatformWars/FirstProject/Assets/Screenshots/1.png)
+![Oyun Görüntüsü](PlatformWars/FirstProject/Assets/Screenshots/1.png)
