@@ -7,3 +7,6 @@
    **Etkileyici Platform Oynanışı:** Zıpla, kaç ve farklı seviyelerde ilerlerken düşmanlarla savaş.<br>
    **Çeşitli Seviyeler:** Her bir seviye kendine özgü zorluklar ve engeller sunar.<br>
    **Akıcı Kontroller:** Kolay öğrenilen kontrollerle keyifli bir oyun deneyimi.<br>
+   
+## Ekran Görüntüleri
+(PlatformWars/FirstProject/Assets/Screenshots/1.png)
