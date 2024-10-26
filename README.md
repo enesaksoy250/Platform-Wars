@@ -9,4 +9,10 @@
    **Akıcı Kontroller:** Kolay öğrenilen kontrollerle keyifli bir oyun deneyimi.<br>
    
 ## Ekran Görüntüleri
+
+![Oyun Görüntüsü](/FirstProject/Assets/Screenshots/6.jpg)
+![Oyun Görüntüsü](/FirstProject/Assets/Screenshots/5.jpg)
+![Oyun Görüntüsü](/FirstProject/Assets/Screenshots/4.jpg)
+![Oyun Görüntüsü](/FirstProject/Assets/Screenshots/3.jpg)
+![Oyun Görüntüsü](/FirstProject/Assets/Screenshots/2.jpg)
 ![Oyun Görüntüsü](/FirstProject/Assets/Screenshots/1.jpg)
