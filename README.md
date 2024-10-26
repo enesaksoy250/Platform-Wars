@@ -22,3 +22,6 @@
 &nbsp;
 ![Oyun Görüntüsü](/FirstProject/Assets/Screenshots/1.jpg)
 &nbsp;
+
+## Kurulum
+
