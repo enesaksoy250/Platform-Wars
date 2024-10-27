@@ -12,15 +12,15 @@
 
 ![Oyun Görüntüsü](https://imgur.com/OgcXUsa.jpg)
 &nbsp;
-![Oyun Görüntüsü](https://imgur.com/gallery/2-KEuqcm5.jpg)
+![Oyun Görüntüsü](https://imgur.com/2-KEuqcm5.jpg)
 &nbsp;
-![Oyun Görüntüsü](https://imgur.com/gallery/3-Ffr2KpK.jpg)
+![Oyun Görüntüsü](https://imgur.com/3-Ffr2KpK.jpg)
 &nbsp;
-![Oyun Görüntüsü](https://imgur.com/gallery/4-KrW3fjv.jpg)
+![Oyun Görüntüsü](https://imgur.com/4-KrW3fjv.jpg)
 &nbsp;
-![Oyun Görüntüsü](https://imgur.com/gallery/5-tSwrl9Q.jpg)
+![Oyun Görüntüsü](https://imgur.com/-tSwrl9Q.jpg)
 &nbsp;
-![Oyun Görüntüsü](https://imgur.com/gallery/6-pHMzzq5.jpg)
+![Oyun Görüntüsü](https://imgur.com/6-pHMzzq5.jpg)
 &nbsp;
 
 ## Kurulum
