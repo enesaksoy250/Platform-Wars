@@ -10,7 +10,7 @@
    
 ## Ekran Görüntüleri
 
-![Oyun Görüntüsü](https://imgur.com/OgcXUsa)
+![Oyun Görüntüsü](https://imgur.com/OgcXUsa.jpg)
 &nbsp;
 ![Oyun Görüntüsü](/FirstProject/Assets/Screenshots/5.jpg)
 &nbsp;
