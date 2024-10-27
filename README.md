@@ -8,6 +8,12 @@
    **Çeşitli Seviyeler:** Her bir seviye kendine özgü zorluklar ve engeller sunar.<br>
    **Akıcı Kontroller:** Kolay öğrenilen kontrollerle keyifli bir oyun deneyimi.<br>
    
+## Kurulum
+
+1. [APK dosyasını indirin](https://drive.google.com/file/d/1036L5GoLP3Se_2hwSzA_OaguoEdpPUMG/view?usp=drive_link).
+2. İndirdiğiniz APK dosyasını mobil cihazınıza yükleyin.
+3. Oyunu açarak oynamaya başlayın!
+
 ## Ekran Görüntüleri
 
 ![Oyun Görüntüsü](https://imgur.com/OgcXUsa.jpg)
@@ -22,9 +28,3 @@
 &nbsp;
 ![Oyun Görüntüsü](https://imgur.com/NW6uO8c.jpg)
 &nbsp;
-
-## Kurulum
-
-1. [APK dosyasını indirin](https://drive.google.com/file/d/1036L5GoLP3Se_2hwSzA_OaguoEdpPUMG/view?usp=drive_link).
-2. İndirdiğiniz APK dosyasını mobil cihazınıza yükleyin.
-3. Oyunu açarak oynamaya başlayın!
