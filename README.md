@@ -20,7 +20,7 @@
 &nbsp;
 ![Oyun Görüntüsü](https://imgur.com/tSwrl9Q.jpg)
 &nbsp;
-![Oyun Görüntüsü](https://imgur.com/pHMzzq5.jpg)
+![Oyun Görüntüsü](https://imgur.com/NW6uO8c.jpg)
 &nbsp;
 
 ## Kurulum
