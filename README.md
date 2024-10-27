@@ -12,13 +12,13 @@
 
 ![Oyun Görüntüsü](https://imgur.com/OgcXUsa.jpg)
 &nbsp;
-![Oyun Görüntüsü](https://imgur.com/KEuqcm5.jpg)
+![Oyun Görüntüsü](https://imgur.com/8W8fh6d.jpg)
 &nbsp;
-![Oyun Görüntüsü](https://imgur.com/Ffr2KpK.jpg)
+![Oyun Görüntüsü](https://imgur.com/HQAEev6.jpg)
 &nbsp;
-![Oyun Görüntüsü](https://imgur.com/KrW3fjv.jpg)
+![Oyun Görüntüsü](https://imgur.com/MQo3ZIs.jpg)
 &nbsp;
-![Oyun Görüntüsü](https://imgur.com/tSwrl9Q.jpg)
+![Oyun Görüntüsü](https://imgur.com/oTLesaB.jpg)
 &nbsp;
 ![Oyun Görüntüsü](https://imgur.com/NW6uO8c.jpg)
 &nbsp;
