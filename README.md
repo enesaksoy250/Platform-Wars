@@ -16,7 +16,7 @@
 
 ## Ekran Görüntüleri
 
-![Oyun Görüntüsü](https://imgur.com/OgcXUsa.jpg)
+![Oyun Görüntüsü](https://imgur.com/NW6uO8c.jpg)
 &nbsp;
 ![Oyun Görüntüsü](https://imgur.com/8W8fh6d.jpg)
 &nbsp;
@@ -26,5 +26,5 @@
 &nbsp;
 ![Oyun Görüntüsü](https://imgur.com/oTLesaB.jpg)
 &nbsp;
-![Oyun Görüntüsü](https://imgur.com/NW6uO8c.jpg)
+![Oyun Görüntüsü](https://imgur.com/OgcXUsa.jpg)
 &nbsp;
